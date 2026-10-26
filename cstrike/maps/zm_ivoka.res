@@ -1,0 +1,10 @@
+sound/ambience/jungle.wav
+gfx/env/cult2bk.tga
+gfx/env/cult2dn.tga
+gfx/env/cult2ft.tga
+gfx/env/cult2lf.tga
+gfx/env/cult2rt.tga
+gfx/env/cult2up.tga
+csbg_zm_ivoka_rc.wad
+maps/zm_ivoka.txt
+maps/zm_ivoka.res
